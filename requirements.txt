@@ -1,0 +1,6 @@
+# installer streamlit
+streamlit
+pandas
+plotly
+# Permet de lire et écrire des fichiers excel
+openpyxl
